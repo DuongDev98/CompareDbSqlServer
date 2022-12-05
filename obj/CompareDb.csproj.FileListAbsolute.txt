@@ -1,0 +1,8 @@
+C:\Users\PC.DESKTOP-LHETLS5\Desktop\CompareDb\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PC.DESKTOP-LHETLS5\Desktop\CompareDb\obj\Debug\CompareDb.Main.resources
+C:\Users\PC.DESKTOP-LHETLS5\Desktop\CompareDb\obj\Debug\CompareDb.Properties.Resources.resources
+C:\Users\PC.DESKTOP-LHETLS5\Desktop\CompareDb\obj\Debug\CompareDb.csproj.GenerateResource.Cache
+C:\Users\PC.DESKTOP-LHETLS5\Desktop\CompareDb\bin\Debug\CompareDb.exe
+C:\Users\PC.DESKTOP-LHETLS5\Desktop\CompareDb\bin\Debug\CompareDb.pdb
+C:\Users\PC.DESKTOP-LHETLS5\Desktop\CompareDb\obj\Debug\CompareDb.exe
+C:\Users\PC.DESKTOP-LHETLS5\Desktop\CompareDb\obj\Debug\CompareDb.pdb
