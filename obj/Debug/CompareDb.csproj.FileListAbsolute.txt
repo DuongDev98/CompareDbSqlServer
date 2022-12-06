@@ -7,3 +7,12 @@ C:\Users\PC.DESKTOP-LHETLS5\Desktop\CompareDb\obj\Debug\CompareDb.csproj.Generat
 C:\Users\PC.DESKTOP-LHETLS5\Desktop\CompareDb\obj\Debug\CompareDb.csproj.CoreCompileInputs.cache
 C:\Users\PC.DESKTOP-LHETLS5\Desktop\CompareDb\obj\Debug\CompareDb.exe
 C:\Users\PC.DESKTOP-LHETLS5\Desktop\CompareDb\obj\Debug\CompareDb.pdb
+D:\Tool\CompareDb\bin\Debug\CompareDb.exe
+D:\Tool\CompareDb\bin\Debug\CompareDb.pdb
+D:\Tool\CompareDb\obj\Debug\CompareDb.csprojAssemblyReference.cache
+D:\Tool\CompareDb\obj\Debug\CompareDb.Main.resources
+D:\Tool\CompareDb\obj\Debug\CompareDb.Properties.Resources.resources
+D:\Tool\CompareDb\obj\Debug\CompareDb.csproj.GenerateResource.cache
+D:\Tool\CompareDb\obj\Debug\CompareDb.csproj.CoreCompileInputs.cache
+D:\Tool\CompareDb\obj\Debug\CompareDb.exe
+D:\Tool\CompareDb\obj\Debug\CompareDb.pdb
